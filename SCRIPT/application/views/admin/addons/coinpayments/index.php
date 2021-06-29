@@ -32,8 +32,8 @@ defined('BASEPATH') or exit('No direct script access allowed');
 							<div class="row">
 								<div class="col-lg-12 col-sm-12">
 									<div class="form-group">
-										<label>Server IP</label>
-										<span class="text-danger">If the IP address is incorrect, use the IP address of the error message returned when using the "Get Withdrawal History" button.</span></small>
+										<label>APi Permissions</label>
+										<span class="text-danger"><a href="https://www.coinpayments.net/acct-api-keys" target="_blank">Click here</a> to update your Api Permission and allow all api to make this addons working.</span></small>
 									</div>
 								</div>
 								<div class="col-lg-6 col-sm-12">
