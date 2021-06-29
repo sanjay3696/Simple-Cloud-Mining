@@ -86,6 +86,9 @@ $activeUrl = $this->uri->segment(2);
 				<li class="<?php echo $activeUrl==='ipnlogs'?'active':'';?>">
 					<a href="<?php echo adminRoute('ipnlogs');?>"><i class="fa fa-exclamation-circle"></i>IPN Logs</a>
 				</li>
+				<li class="<?php echo $activeUrl==='settings'?'active':'';?>">
+					<a href="<?php echo adminRoute();?>/coinpayments"><i class="fa fa-cogs"></i>coinpayments</a>
+				</li>
 			</ul>
 		</div>
 		<div class="admin-menu">
