@@ -1,9 +1,8 @@
 # Simple-Cloud-Mining
 Simple Cloud Mining Script with PHP
 
-Tutorial : https://www.youtube.com/watch?v=iitJJ8vYnlk
 
-Demo : https://togwin.com/
+Demo : https://mostominer.com/
 
 Support all coin on coinpayments.net
 
